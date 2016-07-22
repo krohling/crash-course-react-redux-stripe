@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "SKATE BANANA BTX SNOWBOARD",
+        "price": 300,
+        "description": "When you're dropping in on the Lib Tech Skate Banana BTX Snowboard, there is no time for selfies - just face shots and perfectly greased rails. The BTX rocker makes for a playful yet predictable ride on any terrain but truly excels as a jibbing machine.",
+        "image": "http://images.evo.com/imgp/700/101705/438222/lib-tech-skate-banana-btx-snowboard-blem-2016-blue.jpg"
+    },
+    {
+        "id": 2,
+        "name": "JOY DRIVER SNOWBOARD 2017",
+        "price": 600,
+        "description": "Whether you're heading out to a new zone of pillow stacks, hill-banging resort laps on beautiful windpack, or sessioning that big booter you built just out the gates, you need a hard-charging, versatile board that can handle it all. Enter the K2 Joy Driver Snowboard.",
+        "image": "http://images.evo.com/imgp/700/102748/443496/clone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BOTTLE ROCKET SNOWBOARD 2017",
+        "price": 480,
+        "description": "Comin' at ya hotter than a Wolf Pack screamer, the K2 Bottle Rocket Snowboard is designed to propel your park riding into the stratosphere. Whether you need a solid jump board, or a battle axe for the cold hard streets, the K2 Bottle Rocket will have you whistling with confidence when you step to something big. ",
+        "image": "http://images.evo.com/imgp/700/102765/446460/k2-bottle-rocket-snowboard-2017-160.jpg"
+    },
+    {
+        "id": 4,
+        "name": "NITRO CINEMA SNOWBOARD 2016",
+        "price": 200,
+        "description": "A true all-terrain, freestyle board, the Nitro Cinema Snowboard is the ultimate platform for progression whether you're a pro or Joe. Learn new tricks in the park and stomp with stability and confidence, or simply learn how to link turns on the groomers--this board has something for everyone.",
+        "image": "http://images.evo.com/imgp/700/101151/445408/clone.jpg"
+    },
+    {
+        "id": 5,
+        "name": "TRS XC2 BTX SNOWBOARD 2016",
+        "price": 380,
+        "description": "There are few podiums that the Lib Tech TRS XC2 BTX Snowboard has yet to stand upon. Lib has created this board to perform aggressively on any terrain in a variety of conditions. The main ingredient that fuels this kind of boundary-less riding is the XC2 rocker. ",
+        "image": "http://images.evo.com/imgp/700/92839/407914/lib-tech-trs-xc2-btx-snowboard-2016-148n.jpg"
+    }
+]
